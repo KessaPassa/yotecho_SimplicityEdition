@@ -1,0 +1,19 @@
+PHP Tips：日付や時刻をパラメータとして扱う：CodeZine（コードジン）
+https://codezine.jp/article/detail/33
+2016/7/20
+
+フォームの基本 - PHP入門 - ポンクソフト
+http://ponk.jp/php/basic/form
+2016/7/20
+
+JavaScript/ウィンドウ/確認ダイアログを表示する - TAG index Webサイト
+http://www.tagindex.com/javascript/window/confirm.html
+2016/7/21
+
+フォームを改行させない小技 - itsbibuqのBlog
+http://d.hatena.ne.jp/itsbibuq/20070128/1169994582
+2016/7/21
+
+いきなりはじめるPHP~ワクワク・ドキドキの入門教室~
+谷藤賢一(著)
+出版社リックテレコム 2011/12/9

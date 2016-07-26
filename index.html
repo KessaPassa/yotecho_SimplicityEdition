@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>予定合わせて調っ</title>
+
+    <style>
+        /*画面に表示する文字を中央寄せする*/
+        h1, h3, div{
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+<br/><br/>
+<h1>
+    「予定合わせて調っ」へようこそ！
+</h1>
+<br/>
+<h3>
+    まずは下記のボタンを選択してください
+</h3>
+
+<!--ボタンを押したら各画面に遷移-->
+<div>
+    <input type="submit" onclick="location.href='make.php'" value="新しく予定表を作る">
+    <span>ㅤㅤ</span> <!--空白文字を入れていい感じにボタンの間をあける-->
+    <input type="submit" onclick="location.href='select.php'" value="既にある予定表に書き込む">
+</div>
+</body>
+</html>
